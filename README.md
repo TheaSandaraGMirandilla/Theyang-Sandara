@@ -1,4 +1,3 @@
-# Theyang Sandara
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3OGdzc3d5cXl4aDhzd3J2czB4OXRnZGRpZG5idTAzaHQzenQ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
 </div>
